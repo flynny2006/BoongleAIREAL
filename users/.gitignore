@@ -1,0 +1,13 @@
+# Ignore all user data files except the structure
+user_*/
+!user_*/.gitkeep
+
+# Keep the users.json file for user list
+!users.json
+
+# Keep the README for documentation
+!README.md
+
+# Ignore any temporary files
+*.tmp
+*.temp 

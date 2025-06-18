@@ -1,0 +1,44 @@
+{
+  "profile": {
+    "id": "user_example_1234567890",
+    "username": "example_user",
+    "email": "example@bolt.ai",
+    "createdAt": "2025-06-18T17:00:00.000Z",
+    "lastLogin": "2025-06-18T17:00:00.000Z",
+    "password": "example_password_hash"
+  },
+  "chats": [
+    {
+      "id": "chat_1234567890",
+      "title": "My First Chat",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hello, how can you help me build a website?",
+          "timestamp": "2025-06-18T17:00:00.000Z"
+        },
+        {
+          "role": "assistant",
+          "content": "I can help you build websites! What kind of website would you like to create?",
+          "timestamp": "2025-06-18T17:00:05.000Z"
+        }
+      ],
+      "createdAt": "2025-06-18T17:00:00.000Z",
+      "updatedAt": "2025-06-18T17:00:05.000Z"
+    }
+  ],
+  "settings": {
+    "theme": "dark",
+    "language": "en",
+    "notifications": true,
+    "autoSave": true,
+    "defaultModel": "gpt-3.5-turbo",
+    "defaultProvider": "OpenAI"
+  },
+  "tokens": {
+    "hourlyTokensUsed": 150,
+    "lastResetHour": "2025-06-18T17:00:00.000Z",
+    "totalTokensUsed": 1500,
+    "lastResetDate": "2025-06-18"
+  }
+} 

@@ -1,0 +1,8 @@
+{
+  "id": "user_example_1234567890",
+  "username": "example_user",
+  "email": "example@bolt.ai",
+  "createdAt": "2025-06-18T17:00:00.000Z",
+  "lastLogin": "2025-06-18T17:00:00.000Z",
+  "password": "example_password_hash"
+} 
